@@ -2,8 +2,8 @@
 
 $wgExtensionCredits['other'][] = array(
 	'name' => 'TwitterSidebarFeed',
-	'author' =>'Simon Walker', 
-	'url' => 'http://www.mediawiki.org/wiki/User:Stwalkerster', 
+	'author' =>'Simon Walker',
+	'url' => 'https://github.com/stwalkerster/mw-extension-twittersidebarfeed',
 	'description' => 'Provides the live twitter feed in the sidebar'
 	);
 
